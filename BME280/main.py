@@ -4,8 +4,6 @@ import struct
 from machine import I2C
 from machine import UART
 
-# import BME280
-
 pycom.heartbeat(False)
 
 # UART
